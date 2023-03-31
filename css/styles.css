@@ -14,7 +14,7 @@ h2 {
 .horizontal-content::-webkit-scrollbar {
     background: transparent;
     width: 0;
-    ;
+
 }
 
 .horizontal-content div {
